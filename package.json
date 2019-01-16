@@ -1,0 +1,27 @@
+{
+  "name": "understanding-javascript-core",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "gitbook serve",
+    "build": "gitbook build",
+    "deploy": "git push origin master",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jylzs369/Understanding-Javascript-Core.git"
+  },
+  "keywords": [
+    "javascript",
+    "core"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jylzs369/Understanding-Javascript-Core/issues"
+  },
+  "homepage": "https://github.com/jylzs369/Understanding-Javascript-Core#readme"
+}
