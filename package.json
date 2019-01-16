@@ -7,7 +7,7 @@
     "start": "npm run dev",
     "dev": "gitbook serve",
     "build": "gitbook build",
-    "deploy": "git push origin master",
+    "deploy": "npm run build && git push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
